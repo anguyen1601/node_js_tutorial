@@ -1,0 +1,5 @@
+Hi! My name is Amy.
+I used she/her/hers gender pronouns.
+I am a rising junior at Amherst College.
+I am a mathematics and computer sciences double major!
+Currently, I am trying to learn Node.js.
